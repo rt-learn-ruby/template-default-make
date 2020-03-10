@@ -1,6 +1,7 @@
 # Overview
 
-Default template with the basic libraries rspec, dotenv, and a Makefile.
+Default template with the basic libraries: rspec, dotenv, logger.
+Uses a Makefile for building.
 
 ## Prerequisites
 
